@@ -1,4 +1,4 @@
-#Cálculo de salarios con horas extra
+#Ej.Cálculo de salarios con horas extra
 
 horasExtra = int(input("Por favor, ingrese la cantidad de horas extras laboradas: "))
 

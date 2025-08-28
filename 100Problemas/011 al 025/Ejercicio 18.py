@@ -1,4 +1,4 @@
-#Operaciones matemáticas
+#Ej.Operaciones matemáticas
 
 #Ingresar números
 a = float(input("Ingresa el primer número "))
@@ -22,7 +22,6 @@ if a >= 0:
  raiz = a ** 0.5
 else:
  raiz = "Error"
-
 
 #Mostrar en pantalla resultados
 print(f"La suma fue de: {suma}")
